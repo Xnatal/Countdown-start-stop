@@ -48,7 +48,7 @@
                 clearInterval(timeinterval);
                 toggleButtons();
 
-                var audio = new Audio('http://www.soundboard.com/handler/DownLoadTrack.ashx?cliptitle=Woob-Woob-Woob&filename=mj/MjQwNjMyNDEyNDA2MTg_Y6ZNUxVi_2bh4.mp3');
+                var audio = new Audio('https://www.soundjay.com/button/sounds/beep-04.mp3');
                 audio.play();
 
                 timerBt.childNodes[1].innerHTML = "START";
