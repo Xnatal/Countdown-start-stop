@@ -1,3 +1,13 @@
+@fade-in: fade-in 0.3s both ease-out;
+@fade-out: fade-out 0.3s both ease-in;
+@timer-color: #FF5722;
+@button-base-color: #a3aec0;
+@button-border-color: #9aa4b4 solid 1px;
+@button-hover-color: #8f99a9;
+@button-stop-base-color: #ff7c35;
+@button-stop-border-color: #ef7432;
+@button-stop-hover-color: #d96c31;
+
 body {
   background-color: #2c3241;
   height: 100%;
