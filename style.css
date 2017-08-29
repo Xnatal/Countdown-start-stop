@@ -44,7 +44,7 @@ body {
 .countdown-container .button-container .start-button,
 .countdown-container .button-container .stop-button {
   cursor: pointer;
-  background-color: #a3aec0;
+  background-color: ;
   border: #9aa4b4 solid 1px;
   border-radius: 4px;
   -moz-transition: background-color 0.4s ease;
