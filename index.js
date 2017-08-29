@@ -64,7 +64,7 @@
         var
             timeInMinutes = 1,
             currentTime = Date.parse(new Date()),
-            deadline = new Date(currentTime + timeInMinutes * 15 * 1000);
+            deadline = new Date(currentTime + timeInMinutes * 7 * 1000);
 
         //initialize the clock countdown
         initializeClock('countdown', deadline);
